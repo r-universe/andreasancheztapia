@@ -1,0 +1,14 @@
+[
+  {
+    "package": "kuenm",
+    "url": "https://github.com/marlonecobos/kuenm",
+    "via": ["modleR"],
+    "from": "modleR"
+  },
+  {
+    "package": "maxnet",
+    "url": "https://github.com/mrmaxent/maxnet",
+    "via": ["modleR"],
+    "from": "modleR"
+  }
+]
