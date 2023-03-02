@@ -13,8 +13,3 @@
 	url = https://github.com/marlonecobos/kuenm
 	shallow = true
 	registered = false
-[submodule "maxnet"]
-	path = maxnet
-	url = https://github.com/mrmaxent/maxnet
-	shallow = true
-	registered = false
