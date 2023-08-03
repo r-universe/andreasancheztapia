@@ -1,15 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/andreasancheztapia/universe
-	shallow = true
 	branch = HEAD
-[submodule "modleR"]
-	path = modleR
-	url = https://github.com/Model-R/modleR
-	shallow = true
-	registered = true
 [submodule "kuenm"]
 	path = kuenm
 	url = https://github.com/marlonecobos/kuenm
-	shallow = true
 	registered = false
+[submodule "modleR"]
+	path = modleR
+	url = https://github.com/Model-R/modleR
