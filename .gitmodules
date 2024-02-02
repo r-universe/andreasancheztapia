@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/andreasancheztapia/universe
+	url = https://github.com/andreasancheztapia/andreasancheztapia.r-universe.dev
 	branch = HEAD
 [submodule "kuenm"]
 	path = kuenm
